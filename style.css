@@ -8,7 +8,7 @@ box-sizing: border-box;
     --line-border-empty:#e0e0e0;
 }
 body{
-    background: #f6f7fb;
+    background: orange;
     display: flex;
     align-items:center ;
     justify-content: center;
